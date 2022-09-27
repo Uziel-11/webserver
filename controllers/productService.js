@@ -36,6 +36,7 @@ const consultProduct = (req, res) => {
     })
 }
 
+
 const deleteProduct = (req, res) => {
     productDao.deleteProduct(req.params.id, (data) => {
         res.send({

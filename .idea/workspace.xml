@@ -31,32 +31,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2EPcxAaMBOvYj7pgMZECUzDBLTU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/Documentos/6to Cuatrimestre/Estancia I/EcommerceFront" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.17.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.11.59&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Uziel/Documents/1.- Arquitectura Orientada a Servicios/FrontEnd&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Uziel\OneDrive\Documentos\1.- Arquitectura Orientada a Servicios\Crud" />
       <recent name="C:\Users\Uziel\OneDrive\Documentos\1.- Arquitectura Orientada a Servicios\Crud\bin" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.devstart">
     <configuration name="devstart" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -79,8 +85,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="npm.devstart" />
+        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +104,16 @@
       <workItem from="1662651030787" duration="336000" />
       <workItem from="1662657175342" duration="2274000" />
       <workItem from="1663110953241" duration="207000" />
-      <workItem from="1663687265454" duration="1114000" />
+      <workItem from="1663687265454" duration="1838000" />
+      <workItem from="1663696340295" duration="190000" />
+      <workItem from="1663814437670" duration="206000" />
+      <workItem from="1663814712301" duration="1166000" />
+      <workItem from="1663861465923" duration="716000" />
+      <workItem from="1663862273630" duration="5297000" />
+      <workItem from="1664208191807" duration="1137000" />
+      <workItem from="1664246962511" duration="3280000" />
+      <workItem from="1664252874624" duration="599000" />
+      <workItem from="1664318684776" duration="1649000" />
     </task>
     <servers />
   </component>
